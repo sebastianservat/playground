@@ -1,0 +1,24 @@
+{
+  "name": "playground",
+  "version": "0.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sebastianservat/playground.git"
+  },
+  "author": "Sebastian Servat",
+  "license": "BSD",
+  "gitHead": "5a7aafc54565464d006d57d4e20edd19b6a20211",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1"
+  },
+  "dependencies": {
+    "fs-extra": "~0.6.3"
+  }
+}
